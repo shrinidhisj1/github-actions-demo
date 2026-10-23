@@ -1,1 +1,1 @@
-print("Hello, GitHUb Actions!")
+print("Hello, Continous Integration!)
